@@ -1,2 +1,2 @@
 # design-patterns - Java
-Singlelton Method, Factory Method 
+Singlelton Method, creational.Factory Method 
