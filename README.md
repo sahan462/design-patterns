@@ -1,2 +1,3 @@
 # design-patterns - Java
-Singlelton Method, creational.Factory Method 
+Creational, Structural, Behavioural
+UCSC - CS - Software Engineering
